@@ -92,5 +92,8 @@ public class MainActivity extends AppCompatActivity {
     public void rdOnClick(View view) {
         Toast.makeText(MainActivity.this, "butt1 is checked", LENGTH_SHORT).show();
     }
+    public void adam()
+    {}
 }
-// some changes here are okey
+
+
