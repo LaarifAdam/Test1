@@ -93,4 +93,4 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(MainActivity.this, "butt1 is checked", LENGTH_SHORT).show();
     }
 }
-// some changes
+// some changes here are okey
